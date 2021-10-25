@@ -25,3 +25,4 @@ Now we will test the results of face mask detector model using OpenCV.
 Run the project and observe the model performance.
 
 ## Outputs:
+![](https://github.com/ramkiran55/Face-Mask-Detection/blob/main/Outputs/Screenshot%20(779).png)
